@@ -9,7 +9,7 @@ The projects cover a range of Data Science, Machine Learning, and Web Applicatio
 
 ## 📂 Projects Overview
 
-### 1️⃣ Heart Disease Prediction (Web App)
+### 1️⃣ Heart Disease Prediction (Web Application)
 - **Description:** A machine learning-powered web application to predict the likelihood of heart disease based on patient health parameters.
 - **Tech Stack:** Python, Flask, Scikit-learn, Pandas, HTML/CSS
 - **Key Features:**
